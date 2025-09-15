@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706762949349",
+    "project_id": "ambulance-driver-app-c39d5",
+    "storage_bucket": "ambulance-driver-app-c39d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706762949349:android:2f60647f1e916293a54a0c",
+        "android_client_info": {
+          "package_name": "com.example.devsecit_ambulance_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwy0Oo3tI12CDAXN8y0h18sUu6SYf8y5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },"certificate_hash": ["27:D5:DE:65:8F:4E:1C:12:D0:6F:1A:C2:29:88:54:FB:EA:74:F5:8B"]
+    }
+  ],
+  "configuration_version": "1"
+}

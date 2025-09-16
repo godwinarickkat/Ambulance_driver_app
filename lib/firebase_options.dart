@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCwy0Oo3tI12CDAXN8y0h18sUu6SYf8y5I',
+    apiKey: '',
     appId: '1:706762949349:android:2f60647f1e916293a54a0c',
     messagingSenderId: '706762949349',
     projectId: 'ambulance-driver-app-c39d5',
